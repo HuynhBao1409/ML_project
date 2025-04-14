@@ -1,0 +1,1 @@
+terminal chạy lệnh thư viện streamlit để run project: streamlit run app.py
